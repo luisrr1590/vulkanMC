@@ -4,6 +4,4 @@ vulkanMC is an unfinished project whose objective was to demonstrate the capabil
 The demo showcased a CT Scanned full skull object converted to a point mesh by Marching Cubes and then rendered using Unity 5.6.02f.
 The built demo uses DirectX 11 for compatibility.
 
-<div align="center">
-  ![](ezgif.com-gif-maker.gif)
-<div/>
+![](ezgif.com-gif-maker.gif)
